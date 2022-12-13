@@ -23,7 +23,7 @@ let give_items = () => {
         hreflist1[i] = hreflist[i].innerHTML.split('href="')[1].split('"')[0];
     }
     console.log(hreflist1);
-    imglist = ['https://proprikol.ru/wp-content/uploads/2021/01/sobachki-krasivye-kartinki-35.jpg', 'https://mobimg.b-cdn.net/v3/fetch/c4/c493aac67877288476b0fc52d55f55cf.jpeg', 'https://img.lybadvice.com/img/exotic-pets/482/12-Best-Exotic-Pets-for-Apartment-Living_4.jpg'];
+    imglist = ['https://proprikol.ru/wp-content/uploads/2021/01/sobachki-krasivye-kartinki-35.jpg', 'https://i.pinimg.com/originals/14/99/de/1499de40da88a33abdf3c2155ab76f32.jpg', 'https://img.lybadvice.com/img/exotic-pets/482/12-Best-Exotic-Pets-for-Apartment-Living_4.jpg'];
 }
 give_items();
 
